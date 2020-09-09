@@ -1,2 +1,2 @@
-# Newcity save games.
-I mean, that's really all to it!
+# NewCity SaveGames
+This is where all of the SaveGames will be stored.
